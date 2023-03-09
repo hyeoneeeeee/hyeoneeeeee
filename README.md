@@ -7,4 +7,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 
-![Hyeoneeeeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeoneeeeee&show_icons=true&theme=dracula)
+<a href="https://github.com/hyeoneeeeee/github-readme-stats">
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=hyeoneeeeee&show_icons=true&theme=dracula" />
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeoneeeeee&layout=compact&theme=dracula" />
+</a>
